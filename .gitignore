@@ -1,0 +1,15 @@
+# IntelliJ
+*.iml
+.idea/
+
+# Eclipse
+.settings/
+.project
+.classpath
+
+# Common
+target/
+.DS_Store
+
+# Misc
+Test.java
