@@ -4,4 +4,4 @@ This library allows you to query your [D1 database](https://developers.cloudflar
 It includes a query syntax similar to the JavaScript SDK and also includes helpers to convert rows into POJOs. 
 
 ## Usage
-[Read the Wiki](/wiki)
+[Read the Wiki](https://github.com/Casterlabs/d1-java/wiki)
